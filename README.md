@@ -1,6 +1,6 @@
 # nuxeo-video-playlist
 
-(temp repository while it is work in progress)
+**WARNING:** This repo has been forked in https://github.com/nuxeo-sandbox/nuxeo-video-playlist and will not be updated anymore. Please, use the one in nuxeo-sandbox.
 
 
 ## License
